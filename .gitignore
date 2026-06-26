@@ -1,0 +1,12 @@
+venv/
+venv310/
+env/
+.venv/
+
+__pycache__/
+*.pyc
+
+# ML / model files (optional but recommended)
+*.pkl
+*.h5
+*.joblib
