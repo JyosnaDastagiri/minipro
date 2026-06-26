@@ -113,7 +113,7 @@ Image-Caption-Generator/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Jyosna Dastagiri/Image-Caption-Generator.git
+git clone https://github.com/JyosnaDastagiri/minipro.git
 ```
 
 Navigate to the project folder:
